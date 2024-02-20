@@ -1,1 +1,3 @@
 // getElementById, addEventListener, objetos
+
+// addEvent
