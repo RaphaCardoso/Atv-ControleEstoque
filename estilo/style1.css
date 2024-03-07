@@ -125,10 +125,6 @@ main {
     margin-left: 15px;
 }
 
-.form-control {
-    font-size: xx-large;
-    margin-right: 15px;
-}
 
 input[type=text] {
     padding: 2px 5px;
@@ -136,6 +132,8 @@ input[type=text] {
     border: 1px solid #ccc;
     border-radius: 20px;
     box-sizing: border-box;
+    font-size: xx-large;
+    margin-right: 15px;
 }
 
 input[type=number] {
